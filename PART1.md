@@ -36,7 +36,7 @@ For example:
 1. Randomly generate game board.
 2. *add more*
 
-### Steve Rogers
+### Athirah
 
 1. Zombie movement and attack behaviour.
 2. *add more*
