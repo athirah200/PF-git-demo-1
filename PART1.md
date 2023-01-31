@@ -31,7 +31,7 @@ List down the contribution of each group members.
 
 For example:
 
-### Tony Stark
+### Farah
 
 1. Randomly generate game board.
 2. *add more*
@@ -41,7 +41,7 @@ For example:
 1. Zombie movement and attack behaviour.
 2. *add more*
 
-### Dr. Strange
+### Ilham
 
 1. Implement all game objects.
 2. *add more*
